@@ -21,8 +21,8 @@ cusdis:
 
 user:
   name: LimJongYoon
-  pic: /assets/img/cat.jpg
-  picAlt: "catbook"
+  pic: /assets/img/main.jpg
+  picAlt: "LimJongYoon"
   job: 
   aboutme: true # comment this out if you don't need the 'about' page.
 
