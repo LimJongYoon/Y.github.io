@@ -20,7 +20,7 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: LimJongYoon
+  name: Lim JongYoon
   pic: /assets/img/main.jpg
   picAlt: "LimJongYoon"
   job: 
