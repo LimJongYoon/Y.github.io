@@ -10,9 +10,9 @@ comments: true
 
 ![image](https://user-images.githubusercontent.com/55519519/126888945-1a65c3f1-a507-4b56-9912-7924416ab626.png)
 
-<b>작업 기여</b> : `시나리오`, `유니티 VR 제작`, `3D모델링`, `애니메이션`  <br>
+<b>작업 기여</b> : `시나리오`, `유니티 VR 제작`, `3D모델링`, `애니메이션`.  <br>
 <b>관련 기관</b> : [KT]에서 지원.<br>
-<b>수상 관련</b> : [KT Super VR game]에 출품 하여 top7에 선정되었음<br>
+<b>수상 관련</b> : [KT Super VR game]에 출품 하여 top7에 선정.<br>
 
 [KT]:                 https://www.kt.com/
 [KT Super VR game]:      http://www.ktsupervr.co.kr/sv/service_2.html
