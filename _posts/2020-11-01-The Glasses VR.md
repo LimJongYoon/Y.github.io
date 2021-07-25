@@ -1,5 +1,5 @@
 ---
-title: 가상현실 영화 The Glasses VR
+title: &#91;AR/VR&#93; 가상현실 영화 The Glasses VR
 categories: [Project]
 comments: true
 ---
