@@ -1,5 +1,5 @@
 ---
-title: Research on how to direct VR films
+title: ［Paper］Research on how to direct VR films
 categories: [Paper]
 comments: true
 ---
