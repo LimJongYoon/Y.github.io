@@ -11,8 +11,8 @@ comments: true
 
 ![image](https://user-images.githubusercontent.com/55519519/126888945-1a65c3f1-a507-4b56-9912-7924416ab626.png)
 
-`시나리오`, `유니티 VR 제작`, `3D모델링` 그리고 `애니메이션` 제작을 하였으며 <br>
-[KT]에서 주관하는 [Super VR game]에 출품 하여 top7에 선정되었음<br>
+<b>기여 업무</b> : `시나리오`, `유니티 VR 제작`, `3D모델링`, `애니메이션`  <br>
+<b>관련 기관</b> : [KT]에서 주관하는 [Super VR game]에 출품 하여 top7에 선정되었음<br>
 
 
 [KT]:                 http://www.ktsupervr.co.kr/sv/service_2.html
